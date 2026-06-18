@@ -1,6 +1,6 @@
 # CleanIQ — AI-Powered Transaction Sanitizer & Diagnostics
 
-> 🚀 **Live Demo:** [Insert Deployed Live Demo URL Here]
+> 🚀 **Live Demo:** [https://anu31d.github.io/CleanIQ---From-messy-spreadsheets-to-ledger-ready-data/]
 
 CleanIQ is a robust, full-stack, AI-powered spreadsheet and transaction ledger data validator. It bridges the gap between chaotic real-world inputs (like csv/xlsx) and pristine corporate datastores by executing automated, customizable compliance checkers alongside a server-side AI Diagnostic engine powered by the latest Gemini models.
 
