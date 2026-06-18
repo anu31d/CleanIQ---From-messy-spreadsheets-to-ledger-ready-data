@@ -1,0 +1,6 @@
+{
+  "name": "CleanIQ",
+  "description": "An AI-powered transaction data validation and processing platform with automated validation rules, a secure chat assistant, and advanced diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

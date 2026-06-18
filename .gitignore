@@ -1,0 +1,23 @@
+# Logs & Cache
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.eslintcache
+.npm
+.vite
+
+# Environment variables (secure credentials)
+.env*
+!.env.example
+
+# IDE configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw5
